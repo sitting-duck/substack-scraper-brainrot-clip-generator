@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+data/
+done/
+failed/
+generated_scripts/
+rendered/
+to_render_bak/
+

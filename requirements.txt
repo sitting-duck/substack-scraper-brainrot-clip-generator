@@ -1,0 +1,14 @@
+requests==2.31.0
+feedparser==6.0.11
+beautifulsoup4==4.12.3
+markdownify==0.12.1
+tqdm==4.66.4
+python-dotenv==1.0.1
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0.post1
+numpy<2
+moviepy==1.0.3
+requests==2.31.0
+tqdm==4.66.4
+python-dotenv==1.0.1
+edge-tts==6.1.7
