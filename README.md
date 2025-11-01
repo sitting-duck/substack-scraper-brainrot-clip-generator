@@ -3,6 +3,9 @@ Scrapes substack articles and generates 30 second videos based on content to bas
 
 
 ```bash
+# once
+cp ./.env.tmp ./.env
+
 python -m venv .venv
 source ./.venv/bin/activate
 
